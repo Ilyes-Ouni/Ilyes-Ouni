@@ -1,5 +1,5 @@
 <h1 align="center">Ilyes El Ouni</h1>
-<h3 align="center">🥇 IT Student | Full-Stack Developer 🥇</h3>
+<h3 align="center">🥇 NodeJS consultant | MERN Stack Developer at Cynoia 🥇</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilelarfaoui&label=Profile%20views&color=0e75b6&style=flat" alt="ilyeselouni" /> </p>
 
 - 🔭 I’m available to provide you **The Solution**
