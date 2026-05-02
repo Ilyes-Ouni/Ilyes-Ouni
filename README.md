@@ -3,17 +3,19 @@
 
 
 
+<div align="center">
+
 ## Ilyes El Ouni
 
-### Full-StackEngineer · AI & ML · LLM pipelines
+### Full-Stack Engineer · AI & ML · LLM pipelines
 
-[Typing SVG](https://github.com/Ilyes-Ouni)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=3400&pause=950&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+Engineer+%C2%B7+AI+%26+ML+%C2%B7+LLM+pipelines;Hands-on+from+APIs+to+delivery+%E2%80%94+NestJS%2C+React%2C+Python;Private+%26+employer+work+by+default+%E2%80%94+proof+is+under+NDA%2C+not+absent)](https://github.com/Ilyes-Ouni)
 
-**[Portfolio](https://ilyes-el-ouni.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/ilyes-el-ouni-a3681b234)** · **[GitHub](https://github.com/Ilyes-Ouni)**
+[**Portfolio**](https://ilyes-el-ouni.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/ilyes-el-ouni-a3681b234) · [**GitHub**](https://github.com/Ilyes-Ouni)
 
-<sub> Data Science and AI Engineering (Tek'UP) </sub>
+<sub>Data Science and AI Engineering (Tek'UP)</sub>
 
-
+</div>
 
 ---
 
