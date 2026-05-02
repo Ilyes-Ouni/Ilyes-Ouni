@@ -40,10 +40,8 @@ Most of my day-to-day delivery is on **employer / private repos** or **orgs**, s
 
 Teams I’ve contributed with in a professional capacity. *Scoped work and timelines are often under NDA—this row is intentional signal, not exhaustive.*
 
-| ![Move UP IT Solutions logo](assets/logos/move_up.png) | [![Qweeby logo](assets/logos/qweeby.png)](https://www.qweeby.fr/) | [![Cynoia logo](assets/logos/cynoia.png)](https://cynoia.com/en/) |
-| :----------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
-
-<p align="center"><sub><strong>Move UP IT Solutions</strong> · <a href="https://www.qweeby.fr/">Qweeby</a> · <a href="https://cynoia.com/en/">Cynoia</a></sub></p>
+| <img src="assets/logos/move_up.png" width="24" height="24" alt="Move UP IT Solutions logo" style="width:24px;height:24px;object-fit:contain;vertical-align:middle;"> | <a href="https://www.qweeby.fr/"><img src="assets/logos/qweeby.png" width="24" height="24" alt="Qweeby logo" style="width:24px;height:24px;object-fit:contain;vertical-align:middle;"></a> | <a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="24" height="24" alt="Cynoia logo" style="width:24px;height:24px;object-fit:contain;vertical-align:middle;"></a> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
 
@@ -60,9 +58,6 @@ Use GitHub profile **Pinned repositories** → pick up to **6** from here so vis
 | **[BeautifulSoup-Python-Scrapling](https://github.com/Ilyes-Ouni/BeautifulSoup-Python-Scrapling)**     | Lightweight **BeautifulSoup** / Python scraping sandbox.                            |
 | **[Spring-Angular-MySQL](https://github.com/Ilyes-Ouni/Spring-Angular-MySQL)**                         | Full-stack **Spring + Angular + MySQL** pattern (enterprise-style SPA stack).       |
 | **[Vite-Tailwind-Reactjs-TypeScript](https://github.com/Ilyes-Ouni/Vite-Tailwind-Reactjs-TypeScript)** | Modern **Vite + React + TypeScript + Tailwind** frontend baseline.                  |
-
-
-*Optional seventh swap:* **[Delivery-Food-Geolocation](https://github.com/Ilyes-Ouni/Delivery-Food-Geolocation)** (Java) if you want to emphasize geo/delivery-domain full-stack spikes.
 
 ---
 
