@@ -33,7 +33,7 @@ Most of my day-to-day delivery is on **employer / private repos** or **orgs**, s
 | **Full-stack engineering** | UIs plus APIs: **React / TS**, **NestJS**, pragmatic boundaries and integration patterns.             |
 | **LLM-ready backends**     | Wiring **Groq/OpenAI-class** flows behind structured endpoints (see sample repo below).               |
 | **Data ingestion & prep**  | **Django/Python** scraping, **BeautifulSoup** experiments, normalization toward downstream use.       |
-| **ML/MLOps direction**     | **Python** repos aimed at experimentation and reproducible pipelines (see `bank-subscription-mlops`). |
+| **ML/MLOps direction**     | **Python** repos aimed at experimentation and reproducible pipelines (see `bmi-propensity-platform`). |
 
 
 ---
@@ -50,23 +50,27 @@ Teams I’ve contributed with in a professional capacity. *Scoped work and timel
 <a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="150" height="150" alt="Cynoia logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
 </p>
 
-<p align="center"><sub><strong>Move UP IT Solutions</strong> · <a href="https://www.qweeby.fr/">Qweeby</a> · <a href="https://cynoia.com/en/">Cynoia</a></sub></p>
+### Geographic reach
+
+<p align="center">
+  <strong>France</strong> · <strong>Tunisia</strong>
+</p>
+
+<p align="center">
+  <sub>Western Europe · North Africa <em>remote / hybrid friendly worldwide</em></sub>
+</p>
 
 ---
+## Public reference repos
 
-## Public reference repos (pin these on your profile)
-
-Use GitHub profile **Pinned repositories** → pick up to **6** from here so visitors see ML + full-stack signal first (not stray tutorials):
+Use GitHub profile **Pinned repositories** → pin **these three** for ML + full-stack + LLM signal:
 
 
-| Repo                                                                                                   | Role                                                                                |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| **[bank-subscription-mlops](https://github.com/Ilyes-Ouni/bank-subscription-mlops)**                   | Python / MLOps-style project (subscription/use-case flavored pipeline work).        |
-| **[react-nestjs-groq-example-sample](https://github.com/Ilyes-Ouni/react-nestjs-groq-example-sample)** | **React + NestJS** integration sample with **Groq** wiring—LLM-behind-API patterns. |
-| **[Django-scraper](https://github.com/Ilyes-Ouni/Django-scraper)**                                     | Django + scraping / ingestion-style data collection.                                |
-| **[BeautifulSoup-Python-Scrapling](https://github.com/Ilyes-Ouni/BeautifulSoup-Python-Scrapling)**     | Lightweight **BeautifulSoup** / Python scraping sandbox.                            |
-| **[Spring-Angular-MySQL](https://github.com/Ilyes-Ouni/Spring-Angular-MySQL)**                         | Full-stack **Spring + Angular + MySQL** pattern (enterprise-style SPA stack).       |
-| **[Vite-Tailwind-Reactjs-TypeScript](https://github.com/Ilyes-Ouni/Vite-Tailwind-Reactjs-TypeScript)** | Modern **Vite + React + TypeScript + Tailwind** frontend baseline.                  |
+| Repo                                                                                                   | Role                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **[react-nestjs-groq-example-sample](https://github.com/Ilyes-Ouni/react-nestjs-groq-example-sample)** | **React + NestJS** sample with **Groq** wiring—LLM-behind-API patterns.                                                                 |
+| **[bmi-propensity-platform](https://github.com/Ilyes-Ouni/bmi-propensity-platform)**                   | Bank marketing **subscription intelligence**: ML + **FastAPI**, **React** dashboard, **MLflow**, Docker—leakage-aware MLOps end-to-end. |
+| **[olist-kpi-forecast-suite](https://github.com/Ilyes-Ouni/olist-kpi-forecast-suite)**                 | **BI + AI** retail lab on the **Olist** dataset—KPIs, forecasting, anomalies, segmentation, **Streamlit** decision dashboard.           |
 
 ---
 
@@ -77,22 +81,46 @@ Use GitHub profile **Pinned repositories** → pick up to **6** from here so vis
 
 ---
 
-## Contact
+## Engineering stack (current)
 
-Internships, product builds, and collaborations on **full-stack + data/ML / LLM integration** tracks — **Tunisia**, **EU/MENA-friendly remote**.
+`TypeScript` · `Angular` · `React` · `NestJS` · `Node.js` · `Firebase` · `Docker` · `PostgreSQL` · `MongoDB` · `Prisma` · `REST`
 
-
-|               |                                                                                                |
-| ------------- | ---------------------------------------------------------------------------------------------- |
-| **Portfolio** | [ilyes-el-ouni.vercel.app](https://ilyes-el-ouni.vercel.app/)                                  |
-| **LinkedIn**  | [linkedin.com/in/ilyes-el-ouni-a3681b234](https://www.linkedin.com/in/ilyes-el-ouni-a3681b234) |
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="" />
+</p>
 
 ---
 
+## GitHub · activity
 
+Most delivery work is in **private** and organization repositories under NDA, so public GitHub is only part of the story. **[github.com/sinouw](https://github.com/sinouw)** has the official contribution graph and repositories. For outcomes, metrics, and case-style write-ups, see the **[portfolio](https://yassine-elouni-profile.web.app/)**; for public code patterns, see **Public reference repos** below.
 
-[GitHub stats](https://github.com/Ilyes-Ouni)
+---
 
-[Top languages](https://github.com/Ilyes-Ouni)
+<details>
+<summary><strong>Public reference repos</strong> (patterns & learning — not a substitute for client work)</summary>
 
+| Repo                                                                                                   | Role                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **[react-nestjs-groq-example-sample](https://github.com/Ilyes-Ouni/react-nestjs-groq-example-sample)** | **React + NestJS** sample with **Groq** wiring—LLM-behind-API patterns.                                                                 |
+| **[bmi-propensity-platform](https://github.com/Ilyes-Ouni/bmi-propensity-platform)**                   | Bank marketing **subscription intelligence**: ML + **FastAPI**, **React** dashboard, **MLflow**, Docker—leakage-aware MLOps end-to-end. |
+| **[olist-kpi-forecast-suite](https://github.com/Ilyes-Ouni/olist-kpi-forecast-suite)**                 | **BI + AI** retail lab on the **Olist** dataset—KPIs, forecasting, anomalies, segmentation, **Streamlit** decision dashboard.           |
+
+</details>
+
+---
+
+<div align="center">
+
+**If you’re hiring for senior delivery, architecture, or team lead — start with [LinkedIn](https://www.linkedin.com/in/yassineelouni/) or the [portfolio](https://yassine-elouni-profile.web.app/).**
+
+<sub>Serious consulting and engineering engagements only.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1222,40:1e3a8a,100:0369a1&height=90&section=footer" width="100%" alt="" />
+
+</div>
