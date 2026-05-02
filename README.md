@@ -19,9 +19,9 @@
 
 ---
 
-### Why this profile can look quiet on GitHub
+## Why this profile can look quiet on GitHub
 
-Most of my day-to-day delivery is on **employer / private repos** or **orgs**, so commits here don’t mirror everything I ship. Early coursework and spike repos also clutter the timeline. **Pinned repositories** plus **[my portfolio](https://ilyes-el-ouni.vercel.app/)** are the clearest snapshot of what I prioritize now—not the activity graph alone.
+Most impactful work lands in **employer / private repos** or **orgs** (NDAs), so the public graph doesn’t show the full delivery picture. Older coursework and spikes add noise on the timeline. **Pinned repos** plus **[my portfolio](https://ilyes-el-ouni.vercel.app/)** are the best honest signal of what I build today.
 
 ---
 
@@ -32,15 +32,15 @@ Most of my day-to-day delivery is on **employer / private repos** or **orgs**, s
 | -------------------------- | ----------------------------------------------------------------------------------------------------- |
 | **Full-stack engineering** | UIs plus APIs: **React / TS**, **NestJS**, pragmatic boundaries and integration patterns.             |
 | **LLM-ready backends**     | Wiring **Groq/OpenAI-class** flows behind structured endpoints (see sample repo below).               |
-| **Data ingestion & prep**  | **Django/Python** scraping, **BeautifulSoup** experiments, normalization toward downstream use.       |
+| **Data ingestion & prep**  | **Python** pipelines for prep and APIs (**FastAPI**, **Streamlit** in pinned work); **Django**/scraping when the use case fits; normalization toward ML and dashboards. |
 | **ML/MLOps direction**     | **Python** repos aimed at experimentation and reproducible pipelines (see `bmi-propensity-platform`). |
 
 
 ---
 
-## Trusted by — organizations I’ve shipped with
+## Trusted by — organizations I’ve worked with
 
-Teams I’ve contributed with in a professional capacity. *Scoped work and timelines are often under NDA—this row is intentional signal, not exhaustive.*
+Employers and teams where I’ve contributed in a professional capacity. *Naming is deliberate signal only; depth of work often sits in private repos or under NDA.*
 
 <p align="center">
 <img src="assets/logos/move_up.png" width="150" height="150" alt="Move UP IT Solutions logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" />
@@ -50,7 +50,7 @@ Teams I’ve contributed with in a professional capacity. *Scoped work and timel
 <a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="150" height="150" alt="Cynoia logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
 </p>
 
-### Geographic reach
+#### Geographic reach
 
 <p align="center">
   <strong>France</strong> · <strong>Tunisia</strong>
@@ -61,49 +61,32 @@ Teams I’ve contributed with in a professional capacity. *Scoped work and timel
 </p>
 
 ---
-## Public reference repos
-
-Use GitHub profile **Pinned repositories** → pin **these three** for ML + full-stack + LLM signal:
-
-
-| Repo                                                                                                   | Role                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **[react-nestjs-groq-example-sample](https://github.com/Ilyes-Ouni/react-nestjs-groq-example-sample)** | **React + NestJS** sample with **Groq** wiring—LLM-behind-API patterns.                                                                 |
-| **[bmi-propensity-platform](https://github.com/Ilyes-Ouni/bmi-propensity-platform)**                   | Bank marketing **subscription intelligence**: ML + **FastAPI**, **React** dashboard, **MLflow**, Docker—leakage-aware MLOps end-to-end. |
-| **[olist-kpi-forecast-suite](https://github.com/Ilyes-Ouni/olist-kpi-forecast-suite)**                 | **BI + AI** retail lab on the **Olist** dataset—KPIs, forecasting, anomalies, segmentation, **Streamlit** decision dashboard.           |
-
----
-
-## Right now
-
-- Tightening **one flagship readme** across my best pinned repo (diagram: data → model/API → UI).
-- Keeping anything labeled AI **reviewable**: eval notes, constraints, failure modes—not only demos.
-
----
 
 ## Engineering stack (current)
 
-`TypeScript` · `Angular` · `React` · `NestJS` · `Node.js` · `Firebase` · `Docker` · `PostgreSQL` · `MongoDB` · `Prisma` · `REST`
+`Python` · `TypeScript` · `React` · `NestJS` · `Node.js` · `Angular` · `Docker` · `PostgreSQL` · `MongoDB` · `Firebase` · `Prisma` · `REST`
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="36" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="36" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" />
 </p>
 
 ---
 
 ## GitHub · activity
 
-Most delivery work is in **private** and organization repositories under NDA, so public GitHub is only part of the story. **[github.com/sinouw](https://github.com/sinouw)** has the official contribution graph and repositories. For outcomes, metrics, and case-style write-ups, see the **[portfolio](https://yassine-elouni-profile.web.app/)**; for public code patterns, see **Public reference repos** below.
+**Contribution graph and pushes** belong to **`@Ilyes-Ouni`**—this profile readme is on the same account. Narrative write-ups and demos live on **[my portfolio](https://ilyes-el-ouni.vercel.app/)**. The repos that best show how I build are listed next.
 
 ---
 
-<details>
-<summary><strong>Public reference repos</strong> (patterns & learning — not a substitute for client work)</summary>
+## Public reference repos
+
+Pin **these three** on your profile; they’re the clearest public snapshots of full-stack + ML/BI work.
 
 | Repo                                                                                                   | Role                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,15 +94,13 @@ Most delivery work is in **private** and organization repositories under NDA, so
 | **[bmi-propensity-platform](https://github.com/Ilyes-Ouni/bmi-propensity-platform)**                   | Bank marketing **subscription intelligence**: ML + **FastAPI**, **React** dashboard, **MLflow**, Docker—leakage-aware MLOps end-to-end. |
 | **[olist-kpi-forecast-suite](https://github.com/Ilyes-Ouni/olist-kpi-forecast-suite)**                 | **BI + AI** retail lab on the **Olist** dataset—KPIs, forecasting, anomalies, segmentation, **Streamlit** decision dashboard.           |
 
-</details>
-
 ---
 
 <div align="center">
 
-**If you’re hiring for senior delivery, architecture, or team lead — start with [LinkedIn](https://www.linkedin.com/in/yassineelouni/) or the [portfolio](https://yassine-elouni-profile.web.app/).**
+**Internships, collaborations, or full-stack / ML roles?** Connect on **[LinkedIn](https://www.linkedin.com/in/ilyes-el-ouni-a3681b234)** or check the **[portfolio](https://ilyes-el-ouni.vercel.app/)**.
 
-<sub>Serious consulting and engineering engagements only.</sub>
+<sub>Tunisia · EU/MENA-friendly remote</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1222,40:1e3a8a,100:0369a1&height=90&section=footer" width="100%" alt="" />
 
