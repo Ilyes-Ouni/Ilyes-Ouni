@@ -42,8 +42,15 @@ Most of my day-to-day delivery is on **employer / private repos** or **orgs**, s
 
 Teams I’ve contributed with in a professional capacity. *Scoped work and timelines are often under NDA—this row is intentional signal, not exhaustive.*
 
-| <img src="assets/logos/move_up.png" width="300" height="300" alt="Move UP IT Solutions logo" style="width:300px;height:300px;object-fit:contain;vertical-align:middle;"> | <a href="https://www.qweeby.fr/"><img src="assets/logos/qweeby.png" width="300" height="300" alt="Qweeby logo" style="width:300px;height:300px;object-fit:contain;vertical-align:middle;"></a> | <a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="300" height="300" alt="Cynoia logo" style="width:300px;height:300px;object-fit:contain;vertical-align:middle;"></a> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<p align="center">
+<img src="assets/logos/move_up.png" width="150" height="150" alt="Move UP IT Solutions logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.qweeby.fr/"><img src="assets/logos/qweeby.png" width="150" height="150" alt="Qweeby logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="150" height="150" alt="Cynoia logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
+</p>
+
+<p align="center"><sub><strong>Move UP IT Solutions</strong> · <a href="https://www.qweeby.fr/">Qweeby</a> · <a href="https://cynoia.com/en/">Cynoia</a></sub></p>
 
 ---
 
