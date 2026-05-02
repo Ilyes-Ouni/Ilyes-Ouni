@@ -43,11 +43,11 @@ Most impactful work lands in **employer / private repos** or **orgs** (NDAs), so
 Employers and teams where I’ve contributed in a professional capacity. *Naming is deliberate signal only; depth of work often sits in private repos or under NDA.*
 
 <p align="center">
-<img src="assets/logos/move_up.png" width="150" height="150" alt="Move UP IT Solutions logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" />
+<img src="assets/logos/move_up.png" height="54" alt="Move UP IT Solutions" style="max-width: 100%; height: auto; max-height: 54px;">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.qweeby.fr/"><img src="assets/logos/qweeby.png" width="150" height="150" alt="Qweeby logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
+<a href="https://www.qweeby.fr/"><img src="assets/logos/qweeby.png" height="44" alt="Qweeby" style="max-width: 100%; height: auto; max-height: 44px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" width="150" height="150" alt="Cynoia logo" style="width:150px;height:150px;object-fit:contain;vertical-align:middle;border:none;" /></a>
+<a href="https://cynoia.com/en/"><img src="assets/logos/cynoia.png" height="54" alt="Cynoia" style="max-width: 100%; height: auto; max-height: 54px;"></a>
 </p>
 
 #### Geographic reach
