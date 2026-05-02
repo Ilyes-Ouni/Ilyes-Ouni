@@ -71,7 +71,7 @@ Internships, product builds, and collaborations on **full-stack + data/ML / LLM 
 
 | | |
 |--|--|
-| **Portfolio** | [ilyes-el-ouni-portoflio.vercel.app](https://ilyes-el-ouni-portoflio.vercel.app/) |
+| **Portfolio** | [ilyes-el-ouni-portoflio.vercel.app](https://ilyes-el-ouni.vercel.app/) |
 | **LinkedIn** | [linkedin.com/in/ilyes-el-ouni-a3681b234](https://www.linkedin.com/in/ilyes-el-ouni-a3681b234) |
 
 ---
@@ -83,7 +83,5 @@ Internships, product builds, and collaborations on **full-stack + data/ML / LLM 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyes-Ouni&layout=compact&theme=transparent&hide_border=true)](https://github.com/Ilyes-Ouni)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Ilyes-Ouni&theme=flat&column=7&margin-w=15&margin-h=15)](https://github.com/Ilyes-Ouni)
-
-_Profile layout inspired by structured readme patterns like [@sinouw](https://github.com/sinouw)._
 
 </div>
